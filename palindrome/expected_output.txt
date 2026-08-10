@@ -1,0 +1,5 @@
+Time = 0  | Number = 1221 | Palindrome = 1
+Time = 10 | Number = 1234 | Palindrome = 0
+Time = 20 | Number = 1331 | Palindrome = 1
+Time = 30 | Number = 4567 | Palindrome = 0
+Time = 40 | Number = 1001 | Palindrome = 1
